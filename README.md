@@ -119,6 +119,6 @@ npm run reset-project
 <div align="center">
   <p>
     <strong>Happy coding! 🎉</strong><br>
-    Made with 💙 by Abhinandh
+    Made with 💙 by Abhinandh c
   </p>
 </div>
